@@ -1,4 +1,4 @@
-# Sébastien Legrand, responsable de bureau 
+# Sébastien Legrand, Gestionnaire administratif
 
 ## À propos de moi
 Je suis très dévoué(e) et excellent(e) pour organiser les choses.
@@ -16,3 +16,5 @@ Je suis très dévoué(e) et excellent(e) pour organiser les choses.
 - Communication
 - Gestion de l'espace de travail
 - Résolution de problèmes
+- Analyse des données admnistratives
+- Gestion de la logistique
